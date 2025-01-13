@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://shopifyhydrogendeveloper.com
+
+# Sitemaps
+Sitemap: https://shopifyhydrogendeveloper.com/sitemap.xml
