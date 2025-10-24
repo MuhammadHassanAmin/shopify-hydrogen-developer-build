@@ -5953,6 +5953,8 @@ a.sofax-connect-login img {
 .sofax-hero-thumb1 {
   position: relative;
   padding-top: 40px;
+  padding-bottom: 30px;
+
 }
 @media (max-width: 991px) {
   .sofax-hero-thumb1 {
