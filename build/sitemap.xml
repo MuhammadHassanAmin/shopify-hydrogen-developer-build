@@ -32,4 +32,10 @@
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
+    <url>
+        <loc>https://shopifyhydrogendeveloper.com/blog/shopify-headless-complete-guide</loc>
+        <lastmod>2025-10-24T00:00:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
 </urlset>
